@@ -1,9 +1,12 @@
 body {
 	font-family: 'Over the Rainbow', cursive;
-	background-image: url("https://visme.co/blog/wp-content/uploads/2017/07/50-Beautiful-and-Minimalist-Presentation-Backgrounds-05.jpg")
+	background-image: url("https://visme.co/blog/wp-content/uploads/2017/07/50-Beautiful-and-Minimalist-Presentation-Backgrounds-05.jpg");
+	font-size: 25px;
+	text-align: center;
 }
 
 h1 {
 	font-family: 'Amatic SC', cursive;
+	font-size: 50px;
 }
 

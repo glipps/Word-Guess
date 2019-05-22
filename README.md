@@ -18,6 +18,6 @@
 
 8. When the player loses, the count increase the Losses counter and restart the game without a page refresh (just like when the user wins).
 
-Game application: 
+## Game application: 
 
 https://github.com/glipps/Word-Guess-Game 

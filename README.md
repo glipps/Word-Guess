@@ -1,8 +1,8 @@
 # Word-Guess-Game
 
-## Psychic Game (Basic)
+## Psychic Game 
 
-![Psychic](Assets\Images\Psychic Game.PNG)
+[Psychic](Assets\Images\Psychic Game.PNG)
 
 1. Essentially, this application randomly picks a letter, and the user has to guess which letter the application chose. 
 

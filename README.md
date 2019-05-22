@@ -2,8 +2,6 @@
 
 ## Psychic Game 
 
-[Psychic](Assets/Images/Psychic Game.PNG)
-
 1. Essentially, this application randomly picks a letter, and the user has to guess which letter the application chose. 
 
 2. Guess what letter I'm thinking of

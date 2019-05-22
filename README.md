@@ -2,7 +2,7 @@
 
 ## Psychic Game 
 
-[Psychic](\Assets\Images\Psychic Game.PNG)
+[Psychic](https://raw.githubusercontent.com/glipps/Word-Guess-Game/master/Assets/Images/Psychic%20Game.PNG
 
 1. Essentially, this application randomly picks a letter, and the user has to guess which letter the application chose. 
 
